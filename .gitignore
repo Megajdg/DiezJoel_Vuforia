@@ -106,3 +106,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 Packages/*.tgz
+DiezJoel_Vuforia_BackUpThisFolder_ButDontShipItWithYourGame/
+Assets/Editor/Migration/com.ptc.vuforia.engine-11.4.4.tgz
